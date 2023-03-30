@@ -1,0 +1,5 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+641bf1a8eafba70e3287e5c6,Madhur,PCCOE,madhurya@gmail.com,Not placed,10,10,10,2023-03-23,Google,On Hold
+641bf1a8eafba70e3287e5c6,Madhur,PCCOE,madhurya@gmail.com,Not placed,10,10,10,2023-03-25,Barclays,FAIL
+641bf78711198038c9c581f0,Sahil Kale,PCCOE,sahil@pccoepune.org,Not placed,5,5,5,2023-03-25,Barclays,PASS
+641bf79e11198038c9c581f6, Yash Jaybhaye,PCCOE,yjaybhaye1707@gmail.com,Not placed,100,100,1000,2023-03-25,Barclays,PASS
